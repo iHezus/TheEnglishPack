@@ -768,7 +768,7 @@ a {
   margin: auto;
 }
 .cid-s48OLK6784 .iconfont-wrapper {
-  color: #000000 !important;
+  color: #47b5ed !important;
   font-size: 1.5rem;
   padding-right: .5rem;
 }
@@ -777,7 +777,7 @@ a {
 }
 .cid-s48OLK6784 .dropdown-menu,
 .cid-s48OLK6784 .navbar.opened {
-  background: #47b5ed !important;
+  background: #ffffff !important;
 }
 .cid-s48OLK6784 .nav-item:focus,
 .cid-s48OLK6784 .nav-link:focus {
@@ -812,7 +812,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(71, 181, 237, 0);
+  background: rgba(255, 255, 255, 0);
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -950,7 +950,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-s48OLK6784 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #47b5ed;
+  background: #ffffff;
 }
 .cid-s48OLK6784 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1057,74 +1057,6 @@ a {
   background-color: #47b5ed;
   overflow: hidden;
 }
-.cid-sWiY4KoRdU {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/henry-be-lc7xcwebecc-unsplash-2000x3000.jpg");
-}
-.cid-sWiY4KoRdU .mbr-overlay {
-  background: #232323;
-  opacity: 0.6;
-}
-.cid-sWiY4KoRdU img,
-.cid-sWiY4KoRdU .item-img {
-  width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
-}
-.cid-sWiY4KoRdU .item:focus,
-.cid-sWiY4KoRdU span:focus {
-  outline: none;
-}
-.cid-sWiY4KoRdU .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-sWiY4KoRdU .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #ffffff;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-sWiY4KoRdU .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-sWiY4KoRdU .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sWiY4KoRdU .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-sWiY4KoRdU .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
-  }
-}
-.cid-sWiY4KoRdU .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-sWiY4KoRdU .mbr-section-title {
-  color: #ffffff;
-}
-.cid-sWiY4KoRdU .mbr-text,
-.cid-sWiY4KoRdU .mbr-section-btn {
-  text-align: left;
-}
-.cid-sWiY4KoRdU .item-title {
-  text-align: left;
-}
-.cid-sWiY4KoRdU .item-subtitle {
-  text-align: left;
-  color: #bbbbbb;
-}
-.cid-sWiY4KoRdU .mbr-section-subtitle {
-  color: #ffffff;
-}
 .cid-s48OLK6784 .navbar-dropdown {
   position: relative !important;
 }
@@ -1172,7 +1104,7 @@ a {
   margin: auto;
 }
 .cid-s48OLK6784 .iconfont-wrapper {
-  color: #000000 !important;
+  color: #47b5ed !important;
   font-size: 1.5rem;
   padding-right: .5rem;
 }
@@ -1239,11 +1171,6 @@ a {
 }
 .cid-s48OLK6784 .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-s48OLK6784 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -1463,6 +1390,145 @@ a {
 .cid-t3FCUiRJSr {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #47b5ed;
   overflow: hidden;
+}
+.cid-t79W2n2QCv {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-t79W2n2QCv img,
+.cid-t79W2n2QCv .item-img {
+  width: 100%;
+}
+.cid-t79W2n2QCv .item:focus,
+.cid-t79W2n2QCv span:focus {
+  outline: none;
+}
+.cid-t79W2n2QCv .item-wrapper {
+  position: relative;
+}
+.cid-t79W2n2QCv .slide-content {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-t79W2n2QCv .slide-content .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-t79W2n2QCv .slide-content .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-t79W2n2QCv .slide-content .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-t79W2n2QCv .slide-content .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-t79W2n2QCv .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-t79W2n2QCv .mbr-section-title {
+  color: #232323;
+}
+.cid-t79W2n2QCv .mbr-text,
+.cid-t79W2n2QCv .mbr-section-btn {
+  text-align: left;
+}
+.cid-t79W2n2QCv .item-title {
+  text-align: left;
+}
+.cid-t79W2n2QCv .item-subtitle {
+  text-align: left;
+}
+.cid-t79W2n2QCv .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 410px;
+  max-width: 410px;
+}
+@media (max-width: 768px) {
+  .cid-t79W2n2QCv .embla__slide {
+    min-width: 70%;
+    max-width: initial;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-t79W2n2QCv .embla__button--next,
+.cid-t79W2n2QCv .embla__button--prev {
+  display: flex;
+}
+.cid-t79W2n2QCv .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .cid-t79W2n2QCv .embla__button {
+    display: none;
+  }
+}
+.cid-t79W2n2QCv .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-t79W2n2QCv .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-t79W2n2QCv .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-t79W2n2QCv .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-t79W2n2QCv .embla__button {
+    top: auto;
+  }
+}
+.cid-t79W2n2QCv .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-t79W2n2QCv .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-t79W2n2QCv .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-t79W2n2QCv .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-t79W2n2QCv .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
 }
